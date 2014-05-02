@@ -1,0 +1,11 @@
+* NIPCA test have to:
+1. Get original setting and check result
+2. Set to other setting and check result. (this might be have several times of setting)
+3. Reset setting to original one.
+
+
+For the requirements above, code should:
+1. set original setting
+2. easy to call for make different setting 
+3. get original setting and set it back.
+
